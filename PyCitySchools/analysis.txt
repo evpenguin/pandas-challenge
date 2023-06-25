@@ -1,0 +1,11 @@
+In this analysis, we created a high level snapshot of the school data from the local area. 
+Then, we broke that data down to look at each school. We looked at the top 5 and bottom 5 schools in relation to the number of students passing overall.
+We then looked at the passing rates per year level per shool for reading, maths and overall. 
+We then catagorised the schools by their budget per student and looked at the average marks and percent passing for reading, maths and overall. We looked at the same data but categorising the schools by number of students, again again for school type. 
+
+
+Looking at the spending ranges per student, we can see that there is no clear correlation between a higher per student budget and a higher percent of students passing any of their classes. 
+
+What seems to be a much better indicator of student performance is the school size, with there being a clear decrease in the percent of students passing as the number of students increases. 
+
+We can also see that students at independent school are more likely to be passing their classes than their government school counterparts. 
